@@ -1,0 +1,70 @@
+name = Articlesite D7
+description = Article Site in Drupal 7 development profile
+
+version = 7.x-1.x
+core = 7.x
+
+
+; Modules from standard.info
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = help
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+
+
+; Contrib
+dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = date_views
+dependencies[] = diff
+dependencies[] = email
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = features
+dependencies[] = field_group
+dependencies[] = libraries
+dependencies[] = link
+dependencies[] = references
+dependencies[] = node_reference
+dependencies[] = user_reference
+dependencies[] = rules
+dependencies[] = rules_admin
+dependencies[] = strongarm
+dependencies[] = shadowbox
+dependencies[] = styles
+dependencies[] = token
+dependencies[] = transliteration
+dependencies[] = imce
+dependencies[] = imageapi
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = wysiwyg
+dependencies[] = imce_wysiwyg
+
+
+;SEO
+dependencies[] = google_analytics
+dependencies[] = globalredirect
+dependencies[] = page_title
+dependencies[] = pathauto
+dependencies[] = metatag
+dependencies[] = service_links
+dependencies[] = xmlsitemap
+
+
+
+files[] = articlesite.profile
