@@ -57,7 +57,7 @@ dependencies[] = imce_wysiwyg
 
 
 ;SEO
-dependencies[] = google_analytics
+dependencies[] = googleanalytics
 dependencies[] = globalredirect
 dependencies[] = page_title
 dependencies[] = pathauto
