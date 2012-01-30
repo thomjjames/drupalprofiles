@@ -9,6 +9,7 @@ core = 7.x
 dependencies[] = block
 dependencies[] = comment
 dependencies[] = help
+dependencies[] = image
 dependencies[] = list
 dependencies[] = menu
 dependencies[] = number
@@ -20,6 +21,7 @@ dependencies[] = search
 dependencies[] = overlay
 dependencies[] = field_ui
 dependencies[] = file
+dependencies[] = rdf
 
 
 ; Contrib
@@ -38,6 +40,7 @@ dependencies[] = features
 dependencies[] = field_group
 dependencies[] = libraries
 dependencies[] = link
+dependencies[] = omega_tools
 dependencies[] = references
 dependencies[] = node_reference
 dependencies[] = user_reference
